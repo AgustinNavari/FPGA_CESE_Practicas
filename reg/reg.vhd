@@ -9,8 +9,7 @@ entity reg is
 
 	generic(
 		N: natural := 4
-	)	
-
+	);	
 	port(
 
 		clk_i: in  std_logic;

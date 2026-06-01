@@ -1,0 +1,133 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+Econtbcd
+Z0 w1780284274
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dE:/FPGA/FPGA_CESE_Practicas/contBCD/Simulacion
+Z5 8E:/FPGA/FPGA_CESE_Practicas/contBCD/Fuentes/contBCD.vhd
+Z6 FE:/FPGA/FPGA_CESE_Practicas/contBCD/Fuentes/contBCD.vhd
+l0
+L9
+VzO<@T7nzboIUNJN0hQZ5Z0
+!s100 FY0>LEOfkaj3kK>2J3OLo1
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1780284601
+!i10b 1
+Z9 !s108 1780284601.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/FPGA/FPGA_CESE_Practicas/contBCD/Fuentes/contBCD.vhd|
+Z11 !s107 E:/FPGA/FPGA_CESE_Practicas/contBCD/Fuentes/contBCD.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Acontbcd_arq
+Z14 DEx4 work 3 reg 0 22 Oe9K5A>XEUOTbPHj?RT<?0
+R1
+R2
+R3
+Z15 DEx4 work 7 contbcd 0 22 zO<@T7nzboIUNJN0hQZ5Z0
+l29
+L23
+VAYO^LlR:bTJF[NObQSPWP2
+!s100 kLULEY4GNGm7LnTokaYKb0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Econtbcd_tb
+Z16 w1780284527
+R1
+R2
+R3
+R4
+Z17 8E:/FPGA/FPGA_CESE_Practicas/contBCD/Fuentes/contBCD_tb.vhd
+Z18 FE:/FPGA/FPGA_CESE_Practicas/contBCD/Fuentes/contBCD_tb.vhd
+l0
+L8
+VE3lQdIA[VQ72fXmS0l<6e1
+!s100 63W89>hBk^9X=2eR?kWfj2
+R7
+32
+R8
+!i10b 1
+R9
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/FPGA/FPGA_CESE_Practicas/contBCD/Fuentes/contBCD_tb.vhd|
+Z20 !s107 E:/FPGA/FPGA_CESE_Practicas/contBCD/Fuentes/contBCD_tb.vhd|
+!i113 1
+R12
+R13
+Acontbcd_tb_arq
+R15
+R1
+R2
+R3
+DEx4 work 10 contbcd_tb 0 22 E3lQdIA[VQ72fXmS0l<6e1
+l25
+L13
+V151S_7hWjAW1o0RPlnJ_A3
+!s100 An5fLTQ_zV=eK<GB0c;8T3
+R7
+32
+R8
+!i10b 1
+R9
+R19
+R20
+!i113 1
+R12
+R13
+Ereg
+Z21 w1780284038
+R2
+R3
+R4
+Z22 8E:/FPGA/FPGA_CESE_Practicas/reg/reg.vhd
+Z23 FE:/FPGA/FPGA_CESE_Practicas/reg/reg.vhd
+l0
+L8
+VOe9K5A>XEUOTbPHj?RT<?0
+!s100 i==dnl<`bZA?lh=Y]fWC53
+R7
+32
+R8
+!i10b 1
+R9
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/FPGA/FPGA_CESE_Practicas/reg/reg.vhd|
+Z25 !s107 E:/FPGA/FPGA_CESE_Practicas/reg/reg.vhd|
+!i113 1
+R12
+R13
+Areg_arq
+R2
+R3
+R14
+l28
+L25
+Z26 VdnMmY:Bo70QO13=>zz1A?2
+Z27 !s100 ;Zf@TP_7M1<^KWJW:@HdI1
+R7
+32
+R8
+!i10b 1
+R9
+R24
+R25
+!i113 1
+R12
+R13

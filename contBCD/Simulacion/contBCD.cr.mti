@@ -1,0 +1,29 @@
+E:/FPGA/FPGA_CESE_Practicas/contBCD/Fuentes/contBCD.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/FPGA/FPGA_CESE_Practicas/contBCD/Fuentes/contBCD.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity contBCD
+-- Compiling architecture contBCD_arq of contBCD
+-- Loading entity reg
+
+} {} {}} E:/FPGA/FPGA_CESE_Practicas/contBCD/Fuentes/contBCD_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/FPGA/FPGA_CESE_Practicas/contBCD/Fuentes/contBCD_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity contBCD_tb
+-- Compiling architecture contBCD_tb_arq of contBCD_tb
+-- Loading entity contBCD
+
+} {} {}} E:/FPGA/FPGA_CESE_Practicas/reg/reg.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/FPGA/FPGA_CESE_Practicas/reg/reg.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity reg
+-- Compiling architecture reg_arq of reg
+
+} {} {}}
