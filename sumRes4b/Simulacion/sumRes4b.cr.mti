@@ -1,0 +1,25 @@
+{E:/Practicas FPGA/sumRes4b/Fuentes/sumRes4b_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Practicas FPGA/sumRes4b/Fuentes/sumRes4b_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity sumRes4b_tb
+-- Compiling architecture sumRes4b_tb_arq of sumRes4b_tb
+
+} {} {}} {E:/Practicas FPGA/sum1b/Fuentes/sum1b.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Practicas FPGA/sum1b/Fuentes/sum1b.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity sum1b
+-- Compiling architecture sum1b_arq of sum1b
+
+} {} {}} {E:/Practicas FPGA/sumRes4b/Fuentes/sumRes4b.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Practicas FPGA/sumRes4b/Fuentes/sumRes4b.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity sumRes4b
+-- Compiling architecture sumRes4b_arq of sumRes4b
+
+} {} {}}

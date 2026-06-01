@@ -1,0 +1,127 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/Practicas FPGA/sumNb/Simulacion
+Esum1b
+Z0 w1780265578
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dE:/Practicas FPGA/sumRes4b/Simulacion
+Z4 8E:/Practicas FPGA/sum1b/Fuentes/sum1b.vhd
+Z5 FE:/Practicas FPGA/sum1b/Fuentes/sum1b.vhd
+l0
+L8
+V@je`Rz5D0cfCzZ1c^dXRE3
+!s100 iImbHF`<bZEQffokU;KZz2
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1780277269
+!i10b 1
+Z8 !s108 1780277269.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/Practicas FPGA/sum1b/Fuentes/sum1b.vhd|
+Z10 !s107 E:/Practicas FPGA/sum1b/Fuentes/sum1b.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Asum1b_arq
+R1
+R2
+Z13 DEx4 work 5 sum1b 0 22 @je`Rz5D0cfCzZ1c^dXRE3
+l24
+L20
+Z14 V=ld9ED;cD=k2:S0[CiGoM3
+Z15 !s100 EL1eiaJ2WfE3S4LUdN>TM0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Esumres4b
+Z16 w1780277266
+R1
+R2
+R3
+Z17 8E:/Practicas FPGA/sumRes4b/Fuentes/sumRes4b.vhd
+Z18 FE:/Practicas FPGA/sumRes4b/Fuentes/sumRes4b.vhd
+l0
+L7
+VzgeVZ?d1b;WIa@dmjb0HC1
+!s100 i47RB1W_bb^RcD=<LfX_73
+R6
+32
+R7
+!i10b 1
+R8
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/Practicas FPGA/sumRes4b/Fuentes/sumRes4b.vhd|
+Z20 !s107 E:/Practicas FPGA/sumRes4b/Fuentes/sumRes4b.vhd|
+!i113 1
+R11
+R12
+Asumres4b_arq
+R1
+R2
+DEx4 work 8 sumres4b 0 22 zgeVZ?d1b;WIa@dmjb0HC1
+l37
+L19
+Vej69iUeOS9oU45a[14e<H0
+!s100 `c5@nMPbYTJ<:6F7UezjV0
+R6
+32
+R7
+!i10b 1
+R8
+R19
+R20
+!i113 1
+R11
+R12
+Esumres4b_tb
+Z21 w1780277169
+R1
+R2
+R3
+Z22 8E:/Practicas FPGA/sumRes4b/Fuentes/sumRes4b_tb.vhd
+Z23 FE:/Practicas FPGA/sumRes4b/Fuentes/sumRes4b_tb.vhd
+l0
+L8
+V:Y46zZ`J9RPRWI^[7ji^z1
+!s100 Y>?f23796hPC[0DE9@;7h3
+R6
+32
+R7
+!i10b 1
+R8
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/Practicas FPGA/sumRes4b/Fuentes/sumRes4b_tb.vhd|
+Z25 !s107 E:/Practicas FPGA/sumRes4b/Fuentes/sumRes4b_tb.vhd|
+!i113 1
+R11
+R12
+Asumres4b_tb_arq
+R1
+R2
+DEx4 work 11 sumres4b_tb 0 22 :Y46zZ`J9RPRWI^[7ji^z1
+l35
+L13
+VJ7PLBB<W0;XGjJR]26a1:1
+!s100 O4LNV?o;BAhU@g8X7^6Ad0
+R6
+32
+R7
+!i10b 1
+R8
+R24
+R25
+!i113 1
+R11
+R12

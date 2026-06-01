@@ -1,0 +1,168 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/Practicas FPGA/ffd/Simulacion
+Esum1b
+Z0 w1780265578
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dE:/Practicas FPGA/sumNb_2/Simulacion
+Z4 8E:/Practicas FPGA/sum1b/Fuentes/sum1b.vhd
+Z5 FE:/Practicas FPGA/sum1b/Fuentes/sum1b.vhd
+l0
+L8
+V@je`Rz5D0cfCzZ1c^dXRE3
+!s100 iImbHF`<bZEQffokU;KZz2
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1780279720
+!i10b 1
+Z8 !s108 1780279720.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/Practicas FPGA/sum1b/Fuentes/sum1b.vhd|
+Z10 !s107 E:/Practicas FPGA/sum1b/Fuentes/sum1b.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Asum1b_arq
+R1
+R2
+Z13 DEx4 work 5 sum1b 0 22 @je`Rz5D0cfCzZ1c^dXRE3
+l24
+L20
+Z14 V=ld9ED;cD=k2:S0[CiGoM3
+Z15 !s100 EL1eiaJ2WfE3S4LUdN>TM0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Esumnb
+Z16 w1780273416
+R1
+R2
+R3
+Z17 8E:/Practicas FPGA/sumNb_2/Fuentes/sumNb_2.vhd
+Z18 FE:/Practicas FPGA/sumNb_2/Fuentes/sumNb_2.vhd
+l0
+L8
+VT_VNGgZ3L6YgH:jn0g]>71
+!s100 dkX^Blj4eN955WG3]cETd3
+R6
+32
+R7
+!i10b 1
+R8
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/Practicas FPGA/sumNb_2/Fuentes/sumNb_2.vhd|
+Z20 !s107 E:/Practicas FPGA/sumNb_2/Fuentes/sumNb_2.vhd|
+!i113 1
+R11
+R12
+Asumnb_arq
+R1
+R2
+DEx4 work 5 sumnb 0 22 T_VNGgZ3L6YgH:jn0g]>71
+l41
+L25
+V4dV:IVUA6SUWKa]S<j5>_2
+!s100 kF7ZM<@9KZ<Tna7`GNN9<1
+R6
+32
+R7
+!i10b 1
+R8
+R19
+R20
+!i113 1
+R11
+R12
+Esumnb_2_tb
+Z21 w1780279715
+Z22 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R1
+R2
+R3
+Z23 8E:/Practicas FPGA/sumNb_2/Fuentes/sumNb_2_tb.vhd
+Z24 FE:/Practicas FPGA/sumNb_2/Fuentes/sumNb_2_tb.vhd
+l0
+L9
+VIFRWFjMgzFc8[XUBTg4h[2
+!s100 KZN]B1cN:oD3PN=[alGTM2
+R6
+32
+R7
+!i10b 1
+R8
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/Practicas FPGA/sumNb_2/Fuentes/sumNb_2_tb.vhd|
+Z26 !s107 E:/Practicas FPGA/sumNb_2/Fuentes/sumNb_2_tb.vhd|
+!i113 1
+R11
+R12
+Asumnb_2_tb_arq
+R22
+R1
+R2
+DEx4 work 10 sumnb_2_tb 0 22 IFRWFjMgzFc8[XUBTg4h[2
+l44
+L14
+VHKYb]CEnUg67@SmOMYnXm0
+!s100 elZfoA_5dL^zPBK`B4UH00
+R6
+32
+R7
+!i10b 1
+R8
+R25
+R26
+!i113 1
+R11
+R12
+Esumnb_tb
+Z27 w1780273576
+R1
+R2
+Z28 dE:/Practicas FPGA/sumNb/Simulacion
+Z29 8E:/Practicas FPGA/sumNb/Fuentes/sumNb_tb.vhd
+Z30 FE:/Practicas FPGA/sumNb/Fuentes/sumNb_tb.vhd
+l0
+L8
+VQAW=aTINlnL<`mP2?3aN]2
+!s100 C0Ub7kl5RnO5T143>O6;a0
+R6
+32
+Z31 !s110 1780273578
+!i10b 1
+Z32 !s108 1780273578.000000
+Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/Practicas FPGA/sumNb/Fuentes/sumNb_tb.vhd|
+Z34 !s107 E:/Practicas FPGA/sumNb/Fuentes/sumNb_tb.vhd|
+!i113 1
+R11
+R12
+Asumnb_tb_arq
+R1
+R2
+DEx4 work 8 sumnb_tb 0 22 QAW=aTINlnL<`mP2?3aN]2
+l43
+L13
+V=7F8Wh;HD<g>_TGkeW39E3
+!s100 mF2IY`_>O1>zK5lm>mcZ_2
+R6
+32
+R31
+!i10b 1
+R32
+R33
+R34
+!i113 1
+R11
+R12

@@ -1,0 +1,127 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/Practicas FPGA/sum1b/Simulacion
+Esum1b
+Z0 w1780265578
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dE:/Practicas FPGA/sum4b/Simulacion
+Z4 8E:/Practicas FPGA/sum1b/Fuentes/sum1b.vhd
+Z5 FE:/Practicas FPGA/sum1b/Fuentes/sum1b.vhd
+l0
+L8
+V@je`Rz5D0cfCzZ1c^dXRE3
+!s100 iImbHF`<bZEQffokU;KZz2
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1780267603
+!i10b 1
+Z8 !s108 1780267603.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/Practicas FPGA/sum1b/Fuentes/sum1b.vhd|
+Z10 !s107 E:/Practicas FPGA/sum1b/Fuentes/sum1b.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Asum1b_arq
+R1
+R2
+DEx4 work 5 sum1b 0 22 @je`Rz5D0cfCzZ1c^dXRE3
+l24
+L20
+V=ld9ED;cD=k2:S0[CiGoM3
+!s100 EL1eiaJ2WfE3S4LUdN>TM0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Esum4b
+Z13 w1780267598
+R1
+R2
+R3
+Z14 8E:/Practicas FPGA/sum4b/Fuentes/sum4b.vhd
+Z15 FE:/Practicas FPGA/sum4b/Fuentes/sum4b.vhd
+l0
+L8
+Vai3H=_kn3IKgY`mYMz^1T3
+!s100 9SXR0l????R5c321;TfOQ0
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/Practicas FPGA/sum4b/Fuentes/sum4b.vhd|
+Z17 !s107 E:/Practicas FPGA/sum4b/Fuentes/sum4b.vhd|
+!i113 1
+R11
+R12
+Asum4b_arq
+R1
+R2
+DEx4 work 5 sum4b 0 22 ai3H=_kn3IKgY`mYMz^1T3
+l36
+L20
+V=nIk=K^3EYenT3[3]KVbY0
+!s100 dF7CnA>@feAaVD6VafMbS0
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12
+Esum4b_tb
+Z18 w1780267323
+R1
+R2
+R3
+Z19 8E:/Practicas FPGA/sum4b/Fuentes/sum4b_tb.vhd
+Z20 FE:/Practicas FPGA/sum4b/Fuentes/sum4b_tb.vhd
+l0
+L8
+V06jodQeeoGi39R:I48L8T1
+!s100 E1am=CL?kL90PRDHFGGLd0
+R6
+32
+R7
+!i10b 1
+R8
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/Practicas FPGA/sum4b/Fuentes/sum4b_tb.vhd|
+Z22 !s107 E:/Practicas FPGA/sum4b/Fuentes/sum4b_tb.vhd|
+!i113 1
+R11
+R12
+Asum4b_tb_arq
+R1
+R2
+Z23 DEx4 work 8 sum4b_tb 0 22 06jodQeeoGi39R:I48L8T1
+l35
+L13
+Z24 V2GSgYP4f[l:cmJILAz[Ie0
+Z25 !s100 K6P?>:F;PYXnLKOe06O@31
+R6
+32
+R7
+!i10b 1
+R8
+R21
+R22
+!i113 1
+R11
+R12
