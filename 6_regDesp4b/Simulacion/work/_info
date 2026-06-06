@@ -1,0 +1,131 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/FPGA/FPGA_CESE_Practicas/contBCD/Simulacion
+Effd
+Z0 w1780270627
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dE:/FPGA/FPGA_CESE_Practicas/6_regDesp/Simulacion
+Z4 8E:/FPGA/FPGA_CESE_Practicas/ffd/Fuentes/ffd.vhd
+Z5 FE:/FPGA/FPGA_CESE_Practicas/ffd/Fuentes/ffd.vhd
+l0
+L8
+VC7<X33Rl1R5QKlNi>njIY2
+!s100 K9X:FFO=WcRSVR2HW;:_?3
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1780367350
+!i10b 1
+Z8 !s108 1780367350.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/FPGA/FPGA_CESE_Practicas/ffd/Fuentes/ffd.vhd|
+Z10 !s107 E:/FPGA/FPGA_CESE_Practicas/ffd/Fuentes/ffd.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Affd_arq
+R1
+R2
+Z13 DEx4 work 3 ffd 0 22 C7<X33Rl1R5QKlNi>njIY2
+l24
+L21
+Z14 VMfUeF3<I`mH^bI3;lRD[[1
+Z15 !s100 k34lYaSTJ5Q767VGE2?eO0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eregdesp4b
+Z16 w1780365473
+R1
+R2
+R3
+Z17 8E:/FPGA/FPGA_CESE_Practicas/6_regDesp/Fuentes/regDesp.vhd
+Z18 FE:/FPGA/FPGA_CESE_Practicas/6_regDesp/Fuentes/regDesp.vhd
+l0
+L8
+V_eL3o0?0<T7:G<<T@fcQ71
+!s100 k<_YF8^bE[Q2Ic><KKzE[2
+R6
+32
+R7
+!i10b 1
+R8
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/FPGA/FPGA_CESE_Practicas/6_regDesp/Fuentes/regDesp.vhd|
+Z20 !s107 E:/FPGA/FPGA_CESE_Practicas/6_regDesp/Fuentes/regDesp.vhd|
+!i113 1
+R11
+R12
+Aregdesp4b_arq
+R13
+R1
+R2
+Z21 DEx4 work 9 regdesp4b 0 22 _eL3o0?0<T7:G<<T@fcQ71
+l26
+L21
+VTc@A?Xbf529Vd1EPl4Ggi3
+!s100 `C<X4A5ih:>ee=AQ0[jzi3
+R6
+32
+R7
+!i10b 1
+R8
+R19
+R20
+!i113 1
+R11
+R12
+Eregdesp4b_tb
+Z22 w1780367347
+Z23 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R1
+R2
+R3
+Z24 8E:/FPGA/FPGA_CESE_Practicas/6_regDesp/Fuentes/regDesp_tb.vhd
+Z25 FE:/FPGA/FPGA_CESE_Practicas/6_regDesp/Fuentes/regDesp_tb.vhd
+l0
+L9
+VkAUWD>P16Q_7<Hl2P1b2j3
+!s100 Knl4lOZKG?EjTz9Re>Az^1
+R6
+32
+R7
+!i10b 1
+R8
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/FPGA/FPGA_CESE_Practicas/6_regDesp/Fuentes/regDesp_tb.vhd|
+Z27 !s107 E:/FPGA/FPGA_CESE_Practicas/6_regDesp/Fuentes/regDesp_tb.vhd|
+!i113 1
+R11
+R12
+Aregdesp4b_tb_arq
+R21
+R23
+R1
+R2
+DEx4 work 12 regdesp4b_tb 0 22 kAUWD>P16Q_7<Hl2P1b2j3
+l26
+L14
+V9:?6KoLgc2N7m>R=6K@9S0
+!s100 Y8Gz0ACXf9L97E9d?d_W>3
+R6
+32
+R7
+!i10b 1
+R8
+R26
+R27
+!i113 1
+R11
+R12

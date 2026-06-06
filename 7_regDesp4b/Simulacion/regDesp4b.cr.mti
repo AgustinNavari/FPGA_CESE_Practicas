@@ -1,0 +1,27 @@
+E:/FPGA/FPGA_CESE_Practicas/ffd/Fuentes/ffd.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/FPGA/FPGA_CESE_Practicas/ffd/Fuentes/ffd.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ffd
+-- Compiling architecture ffd_arq of ffd
+
+} {} {}} E:/FPGA/FPGA_CESE_Practicas/7_regDesp4b/Fuentes/regDesp.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/FPGA/FPGA_CESE_Practicas/7_regDesp4b/Fuentes/regDesp.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity regDesp4b
+-- Compiling architecture regDesp4b_arq of regDesp4b
+
+} {} {}} E:/FPGA/FPGA_CESE_Practicas/7_regDesp4b/Fuentes/regDesp_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/FPGA/FPGA_CESE_Practicas/7_regDesp4b/Fuentes/regDesp_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity regDesp4b_tb
+-- Compiling architecture regDesp4b_tb_arq of regDesp4b_tb
+-- Loading entity regDesp4b
+
+} {} {}}

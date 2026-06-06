@@ -46,11 +46,11 @@ begin
 	DUT: ffd
 
 		port map(
-			clk_i  => clk_tb,
-			rst_i  => rst_tb,
+			clk_i => clk_tb,
+			rst_i => rst_tb,
 			ena_i => ena_tb,
-			d_i  => d_tb,
-			q_o => q_tb
+			d_i   => d_tb,
+			q_o   => q_tb
 			);
 end;
 

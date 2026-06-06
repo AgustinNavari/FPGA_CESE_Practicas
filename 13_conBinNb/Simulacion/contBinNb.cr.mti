@@ -1,0 +1,20 @@
+E:/FPGA/FPGA_CESE_Practicas/13_conBinNb/Fuentes/contBinNb.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/FPGA/FPGA_CESE_Practicas/13_conBinNb/Fuentes/contBinNb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity contBin4b
+-- Compiling architecture contBin4b_arq of contBin4b
+
+} {} {}} E:/FPGA/FPGA_CESE_Practicas/13_conBinNb/Fuentes/contBinNb_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/FPGA/FPGA_CESE_Practicas/13_conBinNb/Fuentes/contBinNb_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity contBinNb_tb
+-- Compiling architecture contBinNb_tb of contBinNb_tb
+-- Loading entity contBin4b
+
+} {} {}}

@@ -1,0 +1,93 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/FPGA/FPGA_CESE_Practicas/13_conBinNb/Simulacion
+Eenagen
+Z0 w1780781961
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dE:/FPGA/FPGA_CESE_Practicas/17_enaGen/Simulacion
+Z5 8E:/FPGA/FPGA_CESE_Practicas/17_enaGen/Fuentes/enaGen.vhd
+Z6 FE:/FPGA/FPGA_CESE_Practicas/17_enaGen/Fuentes/enaGen.vhd
+l0
+L9
+VhNNfg8ofCie7`cfgjPka;1
+!s100 BB6Ki:`EljOi>P0oBKE5e2
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1780782499
+!i10b 1
+Z9 !s108 1780782499.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/FPGA/FPGA_CESE_Practicas/17_enaGen/Fuentes/enaGen.vhd|
+Z11 !s107 E:/FPGA/FPGA_CESE_Practicas/17_enaGen/Fuentes/enaGen.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Aenagen_arq
+R1
+R2
+R3
+Z14 DEx4 work 6 enagen 0 22 hNNfg8ofCie7`cfgjPka;1
+l31
+L25
+V9ko^3T7InkH<Hb2B:KmGS0
+!s100 V:Z];EG39kaj;WkGYF4EX2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Eenagen_tb
+Z15 w1780782461
+R1
+R2
+R3
+R4
+Z16 8E:/FPGA/FPGA_CESE_Practicas/17_enaGen/Fuentes/enaGen_tb.vhd
+Z17 FE:/FPGA/FPGA_CESE_Practicas/17_enaGen/Fuentes/enaGen_tb.vhd
+l0
+L9
+VJ2@ZT5JUkin1J@^`G?D6a3
+!s100 i;Y6WM_UE:l_>bL5IhQc?0
+R7
+32
+R8
+!i10b 1
+R9
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/FPGA/FPGA_CESE_Practicas/17_enaGen/Fuentes/enaGen_tb.vhd|
+Z19 !s107 E:/FPGA/FPGA_CESE_Practicas/17_enaGen/Fuentes/enaGen_tb.vhd|
+!i113 1
+R12
+R13
+Aenagen_tb_arq
+R14
+R1
+R2
+R3
+DEx4 work 9 enagen_tb 0 22 J2@ZT5JUkin1J@^`G?D6a3
+l25
+L14
+VFBz@jE3L;]bIhS@lWh5Cb2
+!s100 VS^J?J;L0ZI1BR?KU]IDl3
+R7
+32
+R8
+!i10b 1
+R9
+R18
+R19
+!i113 1
+R12
+R13
