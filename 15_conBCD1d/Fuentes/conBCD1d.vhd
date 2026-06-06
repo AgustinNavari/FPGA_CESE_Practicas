@@ -6,27 +6,22 @@ use IEEE.numeric_std.all;
 
 -- Declaracion de entidad
 
-entity contBinNb is
-
-    generic(
-        N : natural := 4 -- por defecto contador de 4 bits
-    );
-
+entity conBDC1d is
 	port(
 		ena_i:  in  std_logic;
 		rst_i:  in  std_logic;
 		clk_i:  in  std_logic;
-		q_o:    out std_logic_vector(N-1 downto 0)
+		q_o:    out std_logic_vector(3 downto 0)
 		);
 end;
 
 -- Cuerpo de arquitectura
 
-architecture contBinNb_arq of contBinNb is
+architecture conBDC1d_arq of conBDC1d is
 
 	-- Parte declarativa
 
-	signal q: unsigned(N-1 downto 0);
+	signal q: unsigned(3 downto 0);
 
 begin
 
@@ -43,7 +38,12 @@ begin
 				q <= (others => '0');
 
 			elsif ena_i = '1' then
-				q <= q + 1;
+
+				if q = 9 then
+                    q <= (others => '0');
+                else
+                    q <= q + 1;
+                end if;
 
 			end if;
 		end if;

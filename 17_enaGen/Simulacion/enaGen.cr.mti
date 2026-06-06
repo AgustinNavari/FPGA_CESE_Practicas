@@ -1,14 +1,4 @@
-E:/FPGA/FPGA_CESE_Practicas/17_enaGen/Fuentes/enaGen_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/FPGA/FPGA_CESE_Practicas/17_enaGen/Fuentes/enaGen_tb.vhd
-Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Loading package NUMERIC_STD
--- Compiling entity enaGen_tb
--- Compiling architecture enaGen_tb_arq of enaGen_tb
--- Loading entity enaGen
-
-} {} {}} E:/FPGA/FPGA_CESE_Practicas/17_enaGen/Fuentes/enaGen.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/FPGA/FPGA_CESE_Practicas/17_enaGen/Fuentes/enaGen.vhd
+E:/FPGA/FPGA_CESE_Practicas/17_enaGen/Fuentes/enaGen.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/FPGA/FPGA_CESE_Practicas/17_enaGen/Fuentes/enaGen.vhd
 Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
 -- Loading package STANDARD
 -- Loading package TEXTIO
