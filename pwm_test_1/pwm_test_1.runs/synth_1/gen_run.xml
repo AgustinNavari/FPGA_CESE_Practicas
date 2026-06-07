@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="synth_1" LaunchPart="xc7z010clg400-1" LaunchTime="1780796606">
+  <File Type="PA-TCL" Name="top_pwm.tcl"/>
+  <File Type="RDS-PROPCONSTRS" Name="top_pwm_drc_synth.rpt"/>
+  <File Type="REPORTS-TCL" Name="top_pwm_reports.tcl"/>
+  <File Type="RDS-RDS" Name="top_pwm.vds"/>
+  <File Type="RDS-UTIL" Name="top_pwm_utilization_synth.rpt"/>
+  <File Type="RDS-UTIL-PB" Name="top_pwm_utilization_synth.pb"/>
+  <File Type="RDS-DCP" Name="top_pwm.dcp"/>
+  <File Type="VDS-TIMINGSUMMARY" Name="top_pwm_timing_summary_synth.rpt"/>
+  <File Type="VDS-TIMING-PB" Name="top_pwm_timing_summary_synth.pb"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/imports/Fuentes/pwm.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../PWM/Fuentes/pwm.vhd"/>
+        <Attr Name="ImportTime" Val="1780785468"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/Fuentes/top_pwm.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../PWM/Fuentes/top_pwm.vhd"/>
+        <Attr Name="ImportTime" Val="1780788883"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="top_pwm"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/imports/FPGA_CESE_Practicas/lab1_ArtyZ7_10.xdc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../lab1_ArtyZ7_10.xdc"/>
+        <Attr Name="ImportTime" Val="1779330716"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2018"/>
+    <Step Id="synth_design"/>
+  </Strategy>
+</GenRun>
