@@ -1,0 +1,55 @@
+C:/Users/agusn/Desktop/FPGA_CESE_Practicas/PWM2/Fuentes/reg.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/agusn/Desktop/FPGA_CESE_Practicas/PWM2/Fuentes/reg.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity reg
+-- Compiling architecture reg_arq of reg
+-- Loading entity ffd
+
+} {} {}} C:/Users/agusn/Desktop/FPGA_CESE_Practicas/PWM2/Fuentes/sumNb_2.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/agusn/Desktop/FPGA_CESE_Practicas/PWM2/Fuentes/sumNb_2.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity sumNb
+-- Compiling architecture sumNb_arq of sumNb
+
+} {} {}} C:/Users/agusn/Desktop/FPGA_CESE_Practicas/PWM2/Fuentes/pwm.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\agusn\Desktop\FPGA_CESE_Practicas\PWM2\Fuentes\pwm.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity pwm
+-- Compiling architecture pwm_arq of pwm
+-- Loading entity sumNb
+-- Loading entity reg
+
+} {} {}} C:/Users/agusn/Desktop/FPGA_CESE_Practicas/PWM2/Fuentes/sum1b.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\agusn\Desktop\FPGA_CESE_Practicas\PWM2\Fuentes\sum1b.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity sum1b
+-- Compiling architecture sum1b_arq of sum1b
+
+} {} {}} C:/Users/agusn/Desktop/FPGA_CESE_Practicas/PWM2/Fuentes/ffd.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/agusn/Desktop/FPGA_CESE_Practicas/PWM2/Fuentes/ffd.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ffd
+-- Compiling architecture ffd_arq of ffd
+
+} {} {}} C:/Users/agusn/Desktop/FPGA_CESE_Practicas/PWM2/Fuentes/pwm_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/agusn/Desktop/FPGA_CESE_Practicas/PWM2/Fuentes/pwm_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity pwm_tb
+-- Compiling architecture pwm_tb_arq of pwm_tb
+-- Loading entity pwm
+
+} {} {}}

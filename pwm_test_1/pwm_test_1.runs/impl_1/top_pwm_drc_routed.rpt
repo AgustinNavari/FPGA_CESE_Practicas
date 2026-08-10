@@ -1,8 +1,8 @@
 Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
 ---------------------------------------------------------------------------------------------------------------
 | Tool Version : Vivado v.2018.1 (win64) Build 2188600 Wed Apr  4 18:40:38 MDT 2018
-| Date         : Sat Jun  6 22:44:26 2026
-| Host         : Desktop_Agus running 64-bit major release  (build 9200)
+| Date         : Tue Jun 16 17:45:06 2026
+| Host         : LAPTOP-5ULVCIF6 running 64-bit major release  (build 9200)
 | Command      : report_drc -file top_pwm_drc_routed.rpt -pb top_pwm_drc_routed.pb -rpx top_pwm_drc_routed.rpx
 | Design       : top_pwm
 | Device       : xc7z010clg400-1

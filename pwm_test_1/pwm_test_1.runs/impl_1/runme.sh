@@ -24,7 +24,7 @@ else
 fi
 export LD_LIBRARY_PATH
 
-HD_PWD='E:/FPGA/FPGA_CESE_Practicas/pwm_test_1/pwm_test_1.runs/impl_1'
+HD_PWD='C:/Users/agusn/Desktop/FPGA_CESE_Practicas/pwm_test_1/pwm_test_1.runs/impl_1'
 cd "$HD_PWD"
 
 HD_LOG=runme.log

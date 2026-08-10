@@ -1,0 +1,252 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/FPGA/FPGA_CESE_Practicas/15_conBCD1d/Simulacion
+Effd
+Z0 w1781491762
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/agusn/Desktop/FPGA_CESE_Practicas/PWM2/Simulacion
+Z4 8C:/Users/agusn/Desktop/FPGA_CESE_Practicas/PWM2/Fuentes/ffd.vhd
+Z5 FC:/Users/agusn/Desktop/FPGA_CESE_Practicas/PWM2/Fuentes/ffd.vhd
+l0
+L8
+VC7<X33Rl1R5QKlNi>njIY2
+!s100 K9X:FFO=WcRSVR2HW;:_?3
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1781565748
+!i10b 1
+Z8 !s108 1781565748.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/agusn/Desktop/FPGA_CESE_Practicas/PWM2/Fuentes/ffd.vhd|
+Z10 !s107 C:/Users/agusn/Desktop/FPGA_CESE_Practicas/PWM2/Fuentes/ffd.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Affd_arq
+R1
+R2
+Z13 DEx4 work 3 ffd 0 22 C7<X33Rl1R5QKlNi>njIY2
+l24
+L21
+VMfUeF3<I`mH^bI3;lRD[[1
+!s100 k34lYaSTJ5Q767VGE2?eO0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Epwm
+Z14 w1781565346
+Z15 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R1
+R2
+R3
+Z16 8C:\Users\agusn\Desktop\FPGA_CESE_Practicas\PWM2\Fuentes\pwm.vhd
+Z17 FC:\Users\agusn\Desktop\FPGA_CESE_Practicas\PWM2\Fuentes\pwm.vhd
+l0
+L5
+V9KlnM4j>h7M]7Ji^o:G3W0
+!s100 ]05bKLcgg8fSNNS]K]DAM0
+R6
+32
+R7
+!i10b 1
+R8
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\agusn\Desktop\FPGA_CESE_Practicas\PWM2\Fuentes\pwm.vhd|
+Z19 !s107 C:\Users\agusn\Desktop\FPGA_CESE_Practicas\PWM2\Fuentes\pwm.vhd|
+!i113 1
+R11
+R12
+Apwm_arq
+Z20 DEx4 work 3 reg 0 22 cJf8o_hZbiNcBkza^EGk=0
+Z21 DEx4 work 5 sumnb 0 22 T_VNGgZ3L6YgH:jn0g]>71
+R15
+R1
+R2
+Z22 DEx4 work 3 pwm 0 22 9KlnM4j>h7M]7Ji^o:G3W0
+l26
+L18
+V>OIHa?A9Pz9NAW3iKGNNS3
+!s100 @A`=hYC10g^a1UbX5_Rd>3
+R6
+32
+R7
+!i10b 1
+R8
+R18
+R19
+!i113 1
+R11
+R12
+Epwm_tb
+Z23 w1781565469
+R15
+R1
+R2
+R3
+Z24 8C:/Users/agusn/Desktop/FPGA_CESE_Practicas/PWM2/Fuentes/pwm_tb.vhd
+Z25 FC:/Users/agusn/Desktop/FPGA_CESE_Practicas/PWM2/Fuentes/pwm_tb.vhd
+l0
+L5
+VzH_R9QKmJL>e3::7hjM=j0
+!s100 gAe@>Gg>ILQk95JR;X?iD2
+R6
+32
+R7
+!i10b 1
+R8
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/agusn/Desktop/FPGA_CESE_Practicas/PWM2/Fuentes/pwm_tb.vhd|
+Z27 !s107 C:/Users/agusn/Desktop/FPGA_CESE_Practicas/PWM2/Fuentes/pwm_tb.vhd|
+!i113 1
+R11
+R12
+Apwm_tb_arq
+R22
+R15
+R1
+R2
+DEx4 work 6 pwm_tb 0 22 zH_R9QKmJL>e3::7hjM=j0
+l19
+L8
+V120[dn<YET_e6l9cMNL?:2
+!s100 gdUU40aZQOcUaG5e^XQci2
+R6
+32
+R7
+!i10b 1
+R8
+R26
+R27
+!i113 1
+R11
+R12
+Ereg
+Z28 w1781565283
+R1
+R2
+R3
+Z29 8C:/Users/agusn/Desktop/FPGA_CESE_Practicas/PWM2/Fuentes/reg.vhd
+Z30 FC:/Users/agusn/Desktop/FPGA_CESE_Practicas/PWM2/Fuentes/reg.vhd
+l0
+L4
+VcJf8o_hZbiNcBkza^EGk=0
+!s100 ?XnV`Z>3UcU7l[TCDK40R0
+R6
+32
+R7
+!i10b 1
+R8
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/agusn/Desktop/FPGA_CESE_Practicas/PWM2/Fuentes/reg.vhd|
+Z32 !s107 C:/Users/agusn/Desktop/FPGA_CESE_Practicas/PWM2/Fuentes/reg.vhd|
+!i113 1
+R11
+R12
+Areg_arq
+R13
+R1
+R2
+R20
+l18
+L17
+VBhekV]FI^K6j=OK9>Mobl0
+!s100 DQW5:geZd?U9hA^2cL6P^2
+R6
+32
+R7
+!i10b 1
+R8
+R31
+R32
+!i113 1
+R11
+R12
+Esum1b
+R0
+R1
+R2
+R3
+Z33 8C:\Users\agusn\Desktop\FPGA_CESE_Practicas\PWM2\Fuentes\sum1b.vhd
+Z34 FC:\Users\agusn\Desktop\FPGA_CESE_Practicas\PWM2\Fuentes\sum1b.vhd
+l0
+L8
+V@je`Rz5D0cfCzZ1c^dXRE3
+!s100 iImbHF`<bZEQffokU;KZz2
+R6
+32
+R7
+!i10b 1
+R8
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\agusn\Desktop\FPGA_CESE_Practicas\PWM2\Fuentes\sum1b.vhd|
+Z36 !s107 C:\Users\agusn\Desktop\FPGA_CESE_Practicas\PWM2\Fuentes\sum1b.vhd|
+!i113 1
+R11
+R12
+Asum1b_arq
+R1
+R2
+DEx4 work 5 sum1b 0 22 @je`Rz5D0cfCzZ1c^dXRE3
+l24
+L20
+V=ld9ED;cD=k2:S0[CiGoM3
+!s100 EL1eiaJ2WfE3S4LUdN>TM0
+R6
+32
+R7
+!i10b 1
+R8
+R35
+R36
+!i113 1
+R11
+R12
+Esumnb
+R0
+R1
+R2
+R3
+Z37 8C:/Users/agusn/Desktop/FPGA_CESE_Practicas/PWM2/Fuentes/sumNb_2.vhd
+Z38 FC:/Users/agusn/Desktop/FPGA_CESE_Practicas/PWM2/Fuentes/sumNb_2.vhd
+l0
+L8
+VT_VNGgZ3L6YgH:jn0g]>71
+!s100 dkX^Blj4eN955WG3]cETd3
+R6
+32
+R7
+!i10b 1
+R8
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/agusn/Desktop/FPGA_CESE_Practicas/PWM2/Fuentes/sumNb_2.vhd|
+Z40 !s107 C:/Users/agusn/Desktop/FPGA_CESE_Practicas/PWM2/Fuentes/sumNb_2.vhd|
+!i113 1
+R11
+R12
+Asumnb_arq
+R1
+R2
+R21
+l41
+L25
+V4dV:IVUA6SUWKa]S<j5>_2
+!s100 kF7ZM<@9KZ<Tna7`GNN9<1
+R6
+32
+R7
+!i10b 1
+R8
+R39
+R40
+!i113 1
+R11
+R12

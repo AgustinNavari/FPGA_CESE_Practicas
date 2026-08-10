@@ -9,24 +9,24 @@ z2
 cModel Technology
 dE:/FPGA/FPGA_CESE_Practicas/15_conBCD1d/Simulacion
 Epwm
-Z0 w1780785468
+Z0 w1781491762
 Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
 Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
 Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
-Z4 dE:/FPGA/FPGA_CESE_Practicas/PWM/Simulacion
-Z5 8E:/FPGA/FPGA_CESE_Practicas/PWM/Fuentes/pwm.vhd
-Z6 FE:/FPGA/FPGA_CESE_Practicas/PWM/Fuentes/pwm.vhd
+Z4 dC:/Users/agusn/Desktop/FPGA_CESE_Practicas/PWM/Simulacion
+Z5 8C:/Users/agusn/Desktop/FPGA_CESE_Practicas/PWM/Fuentes/pwm.vhd
+Z6 FC:/Users/agusn/Desktop/FPGA_CESE_Practicas/PWM/Fuentes/pwm.vhd
 l0
 L5
 V9KlnM4j>h7M]7Ji^o:G3W0
 !s100 ]05bKLcgg8fSNNS]K]DAM0
 Z7 OV;C;10.5b;63
 32
-Z8 !s110 1780786673
+Z8 !s110 1781641727
 !i10b 1
-Z9 !s108 1780786673.000000
-Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/FPGA/FPGA_CESE_Practicas/PWM/Fuentes/pwm.vhd|
-Z11 !s107 E:/FPGA/FPGA_CESE_Practicas/PWM/Fuentes/pwm.vhd|
+Z9 !s108 1781641727.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/agusn/Desktop/FPGA_CESE_Practicas/PWM/Fuentes/pwm.vhd|
+Z11 !s107 C:/Users/agusn/Desktop/FPGA_CESE_Practicas/PWM/Fuentes/pwm.vhd|
 !i113 1
 Z12 o-work work -2002 -explicit
 Z13 tExplicit 1 CvgOpt 0
@@ -50,13 +50,13 @@ R11
 R12
 R13
 Epwm_tb
-Z15 w1780786624
+Z15 w1781641718
 R1
 R2
 R3
 R4
-Z16 8E:/FPGA/FPGA_CESE_Practicas/PWM/Fuentes/pwm_tb.vhd
-Z17 FE:/FPGA/FPGA_CESE_Practicas/PWM/Fuentes/pwm_tb.vhd
+Z16 8C:\Users\agusn\Desktop\FPGA_CESE_Practicas\PWM\Fuentes\pwm_tb2.vhd
+Z17 FC:\Users\agusn\Desktop\FPGA_CESE_Practicas\PWM\Fuentes\pwm_tb2.vhd
 l0
 L5
 VzH_R9QKmJL>e3::7hjM=j0
@@ -66,8 +66,8 @@ R7
 R8
 !i10b 1
 R9
-Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/FPGA/FPGA_CESE_Practicas/PWM/Fuentes/pwm_tb.vhd|
-Z19 !s107 E:/FPGA/FPGA_CESE_Practicas/PWM/Fuentes/pwm_tb.vhd|
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\agusn\Desktop\FPGA_CESE_Practicas\PWM\Fuentes\pwm_tb2.vhd|
+Z19 !s107 C:\Users\agusn\Desktop\FPGA_CESE_Practicas\PWM\Fuentes\pwm_tb2.vhd|
 !i113 1
 R12
 R13
@@ -76,11 +76,11 @@ R14
 R1
 R2
 R3
-DEx4 work 6 pwm_tb 0 22 zH_R9QKmJL>e3::7hjM=j0
+Z20 DEx4 work 6 pwm_tb 0 22 zH_R9QKmJL>e3::7hjM=j0
 l18
 L8
-V_F27B@To:PL8J_IJG`aIF1
-!s100 n2Kb]FkI?7<6`fYlL0m;T1
+V=LK`]CQFWA]HXGD8QK^zh2
+!s100 ZHTA?ZN`XQBG]i2>c<Ri;2
 R7
 32
 R8
